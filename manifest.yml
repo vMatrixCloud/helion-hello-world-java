@@ -3,4 +3,5 @@
 applications:
 - name: helion-hello-world-java-by-c3jenkins
   mem: 512M
+  domain: app.helionit.es
   path: build/hello-world-java-1.0
