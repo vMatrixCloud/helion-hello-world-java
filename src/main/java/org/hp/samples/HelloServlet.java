@@ -38,7 +38,7 @@ public class HelloServlet extends HttpServlet {
 		response.setStatus(200);
 		PrintWriter writer = response.getWriter();
 		writer.println("Hello World, yolo");
-		writer.println("Hey!");
+		writer.println("Hey, go build!");
 		writer.close();
 	}
 }
