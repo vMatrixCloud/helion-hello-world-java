@@ -3,10 +3,10 @@
 # Hello World Java 
 
 Build Status:
-<a href='http://192.170.83.155:8080/job/hello/'><img src='http://192.170.83.155:8080/job/hello/badge/icon?token=42342342352342345'></a>
+<a href='http://192.170.83.155:8080/job/hello/'><img src='http://192.170.83.155:8080/buildStatus/icon?job=hello'></a>
 
 [![Build Status](http://192.170.83.155:8080/job/hello/badge/icon)](http://192.170.83.155:8080/job/hello/)
-[![Build Status](http://192.170.83.155:8080/buildStatus/icon?job=hello?token=42342342352342345)](http://192.170.83.155:8080/job/hello/)
+[![Build Status](http://192.170.83.155:8080/buildStatus/icon?job=hello)](http://192.170.83.155:8080/job/hello/)
 
 This is a very simple Servlet-based Java webapp. 
 
