@@ -39,6 +39,7 @@ public class HelloServlet extends HttpServlet {
 		PrintWriter writer = response.getWriter();
 		writer.println("Hello World!");
 		writer.println("This will deploy straight from github.com");
+		writer.println("<img src='http://funnycats.blogin.com.au/wp-content/uploads/2015/01/The-matrix-cat.jpeg'>");
 		writer.close();
 	}
 }
