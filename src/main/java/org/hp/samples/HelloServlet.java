@@ -37,9 +37,8 @@ public class HelloServlet extends HttpServlet {
 		response.setContentType("text/plain");
 		response.setStatus(200);
 		PrintWriter writer = response.getWriter();
-		writer.println("Hello World!");
+		writer.println("Hello Taiwan!");
 		writer.println("This will deploy straight from github.com");
-		writer.println("<img src='http://funnycats.blogin.com.au/wp-content/uploads/2015/01/The-matrix-cat.jpeg'>");
 		writer.close();
 	}
 }
