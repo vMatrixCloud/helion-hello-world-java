@@ -3,6 +3,8 @@
 # Hello World Java 
 
 Build Status:
+<a href='http://192.170.83.155:8080/job/hello/'><img src='http://192.170.83.155:8080/job/hello/badge/icon'></a>
+
 [![Build Status](http://192.170.83.155:8080/job/hello/badge/icon)](http://192.170.83.155:8080/job/hello/)
 [![Build Status](http://192.170.83.155:8080/buildStatus/icon?job=hello)](http://192.170.83.155:8080/job/hello/)
 
