@@ -8,7 +8,7 @@ Build Status:
 [![Build Status](http://192.170.83.155:8080/job/hello/badge/icon)](http://192.170.83.155:8080/job/hello/)
 [![Build Status](http://192.170.83.155:8080/buildStatus/icon?job=hello)](http://192.170.83.155:8080/job/hello/)
 
-This is a very simple Servlet-based Java webapp. 
+This is a very simple Servlet-based Java webapp.  
 
 New users should check out the resources available at [HP Helion Docs](http://docs.hpcloud.com/helion/devplatform/workbook/helloworld/java/). 
 The site includes more detail and has instructions on how to create an HP
