@@ -2,6 +2,6 @@
 # The only mandatory fields are name and path for simple Java web apps.
 applications:
 - name: hello-world-java-by-c3jenkins
-  mem: 512M
-  domain: app.helionit.es
+  mem: 256M
+  #domain: app.helionit.es
   path: build/hello-world-java-1.0
